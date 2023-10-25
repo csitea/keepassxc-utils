@@ -1,0 +1,46 @@
+[0;34m ℹ  [INFO] 2023-10-25 05:45:29 EEST [keepassxc-utils][@csi-ysg-deb-box] [57469] START ::: running action :: do_print_usage  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:02:50 EEST [keepassxc-utils][@csi-ysg-deb-box] [80690] START ::: running action :: do_print_usage  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:03:42 EEST [keepassxc-utils][@csi-ysg-deb-box] [82100] START ::: running action :: do_export_keepassxc_db  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:04:05 EEST [keepassxc-utils][@csi-ysg-deb-box] [83414] START ::: running action :: do_export_keepassxc_db  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:04:40 EEST [keepassxc-utils][@csi-ysg-deb-box] [84315] START ::: running action :: do_export_keepassxc_db  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:05:03 EEST [keepassxc-utils][@csi-ysg-deb-box] [85615] START ::: running action :: do_export_keepassxc_db  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:05:43 EEST [keepassxc-utils][@csi-ysg-deb-box] [87320] START ::: running action :: do_export_keepassxc_db  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:05:58 EEST [keepassxc-utils][@csi-ysg-deb-box] [87797] START ::: running action :: do_export_keepassxc_db  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:07:32 EEST [keepassxc-utils][@csi-ysg-deb-box] [90389] START ::: running action :: do_export_keepassxc_db  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:07:55 EEST [keepassxc-utils][@csi-ysg-deb-box] [91270] START ::: running action :: do_export_keepassxc_db  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:08:20 EEST [keepassxc-utils][@csi-ysg-deb-box] [92152] START ::: running action :: do_export_keepassxc_db  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:08:49 EEST [keepassxc-utils][@csi-ysg-deb-box] [93440] START ::: running action :: do_export_keepassxc_db  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:09:08 EEST [keepassxc-utils][@csi-ysg-deb-box] [94328] START ::: running action :: do_export_keepassxc_db  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:09:25 EEST [keepassxc-utils][@csi-ysg-deb-box] [95212] START ::: running action :: do_export_keepassxc_db  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:09:26 EEST [keepassxc-utils][@csi-ysg-deb-box] [95212] STOP ::: running function :: do_export_keepassxc_db  [0m
+[0;32m ✔ [OK]  [OK] 2023-10-25 06:09:26 EEST [keepassxc-utils][@csi-ysg-deb-box] [95212] run's run completed  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:10:35 EEST [keepassxc-utils][@csi-ysg-deb-box] [97302] START ::: running action :: do_export_keepassxc_db  [0m
+ [running:] 2023-10-25 06:10:35 EEST [keepassxc-utils][@csi-ysg-deb-box] [97302] running: 
+ [keepassxc-cli] 2023-10-25 06:10:35 EEST [keepassxc-utils][@csi-ysg-deb-box] [97302] export --no-password --format=xml --key-file /home/ysg/.ssh/.ysg/id_rsa.yordan.georgiev+crs@google.com.pub /opt/csi/ysg-creds/ysg.kdbx > /home/ysg/var/keepassxc-utils/dat/xml//ysg.kdbx.20231025_061035.xml 
+ [produced] 2023-10-25 06:10:36 EEST [keepassxc-utils][@csi-ysg-deb-box] [97302] the following export xml file: /home/ysg/var/keepassxc-utils/dat/xml//ysg.kdbx.20231025_061035.xml 
+[0;34m ℹ  [INFO] 2023-10-25 06:10:36 EEST [keepassxc-utils][@csi-ysg-deb-box] [97302] STOP ::: running function :: do_export_keepassxc_db  [0m
+[0;32m ✔ [OK]  [OK] 2023-10-25 06:10:36 EEST [keepassxc-utils][@csi-ysg-deb-box] [97302] run's run completed  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:11:06 EEST [keepassxc-utils][@csi-ysg-deb-box] [99022] START ::: running action :: do_export_keepassxc_db  [0m
+ [DEBUG] 2023-10-25 06:11:06 EEST [keepassxc-utils][@csi-ysg-deb-box] [99022] running: 
+ [DEBUG] 2023-10-25 06:11:06 EEST [keepassxc-utils][@csi-ysg-deb-box] [99022] keepassxc-cli export --no-password --format=xml --key-file /home/ysg/.ssh/.ysg/id_rsa.yordan.georgiev+crs@google.com.pub /opt/csi/ysg-creds/ysg.kdbx > /home/ysg/var/keepassxc-utils/dat/xml//ysg.kdbx.20231025_061106.xml 
+[0;34m ℹ  [INFO] 2023-10-25 06:11:07 EEST [keepassxc-utils][@csi-ysg-deb-box] [99022] produced the following export xml file: /home/ysg/var/keepassxc-utils/dat/xml//ysg.kdbx.20231025_061106.xml  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:11:07 EEST [keepassxc-utils][@csi-ysg-deb-box] [99022] STOP ::: running function :: do_export_keepassxc_db  [0m
+[0;32m ✔ [OK]  [OK] 2023-10-25 06:11:07 EEST [keepassxc-utils][@csi-ysg-deb-box] [99022] run's run completed  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:16:17 EEST [keepassxc-utils][@csi-ysg-deb-box] [106147] START ::: running action :: do_export_keepassxc_db  [0m
+ [DEBUG] 2023-10-25 06:16:17 EEST [keepassxc-utils][@csi-ysg-deb-box] [106147] running: 
+ [DEBUG] 2023-10-25 06:16:17 EEST [keepassxc-utils][@csi-ysg-deb-box] [106147] keepassxc-cli export --no-password --format=xml --key-file /home/ysg/.ssh/.ysg/id_rsa.yordan.georgiev+crs@google.com.pub /opt/csi/ysg-creds/ysg.kdbx > /home/ysg/var/keepassxc-utils/dat/xml//ysg.kdbx.20231025_061617.xml 
+[0;34m ℹ  [INFO] 2023-10-25 06:16:18 EEST [keepassxc-utils][@csi-ysg-deb-box] [106147] produced the following export xml file: /home/ysg/var/keepassxc-utils/dat/xml//ysg.kdbx.20231025_061617.xml  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:16:18 EEST [keepassxc-utils][@csi-ysg-deb-box] [106147] STOP ::: running function :: do_export_keepassxc_db  [0m
+[0;32m ✔ [OK]  [OK] 2023-10-25 06:16:18 EEST [keepassxc-utils][@csi-ysg-deb-box] [106147] run's run completed  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:16:47 EEST [keepassxc-utils][@csi-ysg-deb-box] [107865] START ::: running action :: do_export_keepassxc_db  [0m
+ [DEBUG] 2023-10-25 06:16:47 EEST [keepassxc-utils][@csi-ysg-deb-box] [107865] running: 
+ [DEBUG] 2023-10-25 06:16:47 EEST [keepassxc-utils][@csi-ysg-deb-box] [107865] keepassxc-cli export --no-password --format=xml --key-file /home/ysg/.ssh/.ysg/id_rsa.yordan.georgiev+crs@google.com.pub /opt/csi/ysg-creds/ysg.kdbx > /home/ysg/var/keepassxc-utils/dat/xml//ysg.kdbx.20231025_061647.xml 
+[0;34m ℹ  [INFO] 2023-10-25 06:16:48 EEST [keepassxc-utils][@csi-ysg-deb-box] [107865] produced the following export xml file: /home/ysg/var/keepassxc-utils/dat/xml//ysg.kdbx.20231025_061647.xml  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:16:48 EEST [keepassxc-utils][@csi-ysg-deb-box] [107865] STOP ::: running function :: do_export_keepassxc_db  [0m
+[0;32m ✔ [OK]  [OK] 2023-10-25 06:16:48 EEST [keepassxc-utils][@csi-ysg-deb-box] [107865] run's run completed  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:17:10 EEST [keepassxc-utils][@csi-ysg-deb-box] [109180] START ::: running action :: do_export_keepassxc_db  [0m
+ [DEBUG] 2023-10-25 06:17:10 EEST [keepassxc-utils][@csi-ysg-deb-box] [109180] running: 
+ [DEBUG] 2023-10-25 06:17:10 EEST [keepassxc-utils][@csi-ysg-deb-box] [109180] keepassxc-cli export --no-password --format=xml --key-file /home/ysg/.ssh/.ysg/id_rsa.yordan.georgiev+crs@google.com.pub /opt/csi/ysg-creds/ysg.kdbx > /home/ysg/var/keepassxc-utils/dat/xml/ysg.kdbx.20231025_061710.xml 
+[0;34m ℹ  [INFO] 2023-10-25 06:17:11 EEST [keepassxc-utils][@csi-ysg-deb-box] [109180] produced the following export xml file: /home/ysg/var/keepassxc-utils/dat/xml/ysg.kdbx.20231025_061710.xml  [0m
+[0;34m ℹ  [INFO] 2023-10-25 06:17:11 EEST [keepassxc-utils][@csi-ysg-deb-box] [109180] STOP ::: running function :: do_export_keepassxc_db  [0m
+[0;32m ✔ [OK]  [OK] 2023-10-25 06:17:11 EEST [keepassxc-utils][@csi-ysg-deb-box] [109180] run's run completed  [0m
